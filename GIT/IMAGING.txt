@@ -1,0 +1,59 @@
+List of Content
+
+    1. EaseUS Todo Backup Home
+    2. Paragon Drive Copy 15
+    3. Acronis True Image 2018
+    4. Macrium Reflect
+    5. Nova Backup PC
+    6. Hard Disk Manager 16
+    7. CloneZilla
+    8. Drive Image XML
+    9. MiniTool Partition Wizard
+    10. Daemon Tools Pro 8
+    11. Active@ Disk Image
+    12. AOMEI Backupper
+    13.  O&O DiskImage 12
+    14. PING
+    15.  R-Drive Image
+    
+    15 Best Data Recovery Software Of 2018 For Free:
+
+    Recuva: The fact that Recuva is on the top of the best data recovery software list, may not come as a surprise to the most of you. ...
+    TestDisk: ...
+    Stellar Data Recovery. ...
+    Undelete 360: ...
+    PhotoRec: ...
+    Pandora Recovery: ...
+    MiniTool Partition Recovery: ...
+    Wise Data Recovery:
+    Supported Platforms: Wise data recovery software can run on Windows 10, 8, 8.1, 7, Vista, XP, and older versions of Windows.
+9. Puran file Recovery:
+10. PC Inspector File recovery
+11. Restoration
+12. DMDE
+13. Glary Undelete
+14. Disk Drill
+15. SoftPerfect File Recovery
+
+
+Top 20 Free Disk Tools for SysAdmins
+
+    TestDisk. TestDisk allows you to repair boot sectors, recover deleted partitions, fix damaged partition tables, and recover deleted data, as well as copy files from deleted/inaccessible partitions. ...
+    EaseUS Partition Master Free. ...
+    WinDirStat. ...
+    CloneZilla. ...
+    OSFMount. ...
+    Defraggler. ...
+    SSDLife. ...
+    Darik's Boot And Nuke (DBAN)
+    9. HD Tune
+10 veracrypt
+11. CrystalDiskInfo
+12. Recuva
+13. TreeSize
+14. HDDScan
+16. NTFSWalker
+17. GParted
+18. SpeedFan
+19. MyDefrag
+20. DiskCryptor

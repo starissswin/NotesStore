@@ -1,0 +1,21 @@
+cd ~
+Set-ExecutionPolicy Unrestricted
+Get-ExecutionPolicy -List
+iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+choco upgrade chocolatey
+choco install -y nano
+choco install -y python3
+python -V
+python -m pip install --upgrade pip
+mkdir my_env
+cd my_env
+python -m venv my_env
+ls my_env
+Exit nano by typing the control and x keys, and when prompted to save the file press y then the enter key.
+my_env\Scripts\activate
+nano hello.py
+print("Hello, World!")
+python hello.py
+pip install django
+pip install --upgrade django==2.1
+django-admin startproject PYTN

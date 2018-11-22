@@ -1,0 +1,16 @@
+threads
+website crash 
+web jam
+aus mig
+webserver instances limit
+ftp server
+scalable programming 
+deadlock avoid
+devops
+pupper chef
+user access conrol linux
+cloudera hortonworks hadoop programs running in hadoop how storage
+Weka, Java-ML, MLlib and Deeplearning4j
+MXNet, Caffe, Caffe2, Theano, TensorFlow--DL
+AWS, Mesos, Docker, Spark and TensorFlow--ML
+vehicle-electronics   automotive electronics

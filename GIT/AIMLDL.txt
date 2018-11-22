@@ -1,0 +1,33 @@
+1. TensorFlow
+2. Keras
+3. Scikit-learn
+4. Microsoft Cognitive Toolkit
+5. Theano
+6. Caffe
+7. Torch
+8. Accord.NET
+Mycroft AI
+OpenNN
+OpenCyc
+NuPIC
+Apache SystemML
+Deeplearning4j
+Caffe
+MLlib
+Scikit-learn 
+NumPy
+PyTorch
+Theano 
+Gensim 
+Caffe
+Chainer
+Statsmodels
+Shogun 
+Pylearn2 
+NuPIC 
+Neon 
+Nilearn
+Orange3 
+Deap 
+PyBrain 
+Fuel

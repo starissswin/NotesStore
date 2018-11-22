@@ -1,0 +1,206 @@
+10 Best Alternatives to Microsoft Visio 2018
+0:OpenProject/ProjectLibre /LibreOffice
+
+1. LucidChart – Best Free Online Flowchart Maker
+One of the best Visio substitute out there that are both free and does not require you to open up an account or sign up for one is LucidChart. Not only are you able to make diagrams but you can invite your entire team to do the changes if something seems off to you.
+
+You can also import or export Microsoft Visio files as if you were using the company’s software all along. However, there are still limitations to being a free user and once you start opting for the paid plans, you will find out that they will end up becoming an expensive proposition. For a free web program, this is one of the best out there.
+
+
+ 
+
+Pros
+
+No need to sign up to use the program, just open the site and start to draw
+Multiple people can work on the same diagram, allowing better integration and less time consumption
+Drag-and-drop interface is available if you want to draw any diagram
+It can import or export Microsoft Visio.vdx files effortlessly
+
+ 
+Cons
+
+Different shapes are not categorized properly so you will have look and select different diagrams very carefully
+You can only open up three active documents at one
+Paid options will quickly end up becoming a pricey solution in the end
+Official Website
+
+2. Draw.io – Another Best Online Diagramming Software
+Draw.io is another free alternative to Visio and like most of them out there, this one exists in your web browser rather than being available as a downloadable program for your Mac or Windows operating system.
+
+You also have cloud support, with several options to choose from when you want to sync your files with services like Google Drive, Dropbox and more. The interface will take some getting used to but if you can get around this, looks like you have found a winner on your hands.
+
+
+Pros
+
+A web program that does not require you to sign in or make an account
+It supports a variety of web browsers, even those running on Chrome OS
+It can import or export Microsoft Visio.vdx files effortlessly
+You can sync files from cloud services like Dropbox and Google Drive for easier access
+Cons
+
+Comprehensive tools like the ones present in Microsoft Visio are not present here
+The interface could take some getting used to depending on your own preference
+Official Website
+
+3. OpenOffice Draw – Best Open Source Visio Alternative
+The tried and test OpenOffice.org was acquired by Apache and since then it has remained free and open-source to the public. In this way, the limitations in the program can eventually be overcome thanks to constant developments of the application. For a Visio alternative, it remains to be a popular choice where you are able to create plans, diagrams plus flowcharts. The app also uses a combination of shapes in order to create professional-looking flowcharts.
+
+OpenOffice Draw also features a similar user interface to Microsoft Visio, so you will feel right at home when attempting to use it for the very first time. In addition, this app is going to be free for the foreseeable future, negating the need to pay a single cent for it.
+
+Apart from this, there are no paid plans provided, no pesky advertisements running or trial limits displayed. Unfortunately, since the application is not web-based, you will have to download it for Mac, Windows or Linux operating system. However, it does not provide support for Chrome OS so if you’re using a Chromebook, it is time to pick up a machine that is running a different operating system.
+
+
+Pros
+
+Open source software so users can develop and make changes to improve it whenever they like
+Similar interface to Visio will allow users to save time and get started right away
+No running ads and no trial limits that you need to start paying afterward
+Cons
+
+No ChromeOS support
+No web-based application so you will have to download it
+Official Website
+
+4. Gliffy – Best Flowchart Making App
+Gliffy is also a terrific tool that works in your browser and uses the HTML5 language to render and create beautiful, functional diagrams. The web-based service is optimized for performance, and since it supports Google Drive syncing, you will be able to keep track of your progress without losing it at any time. There is no third-party application meaning you will not have to waste time downloading a separate file and then install it on various operating systems.
+
+The freebie version of this Visio replacement is more than capable of getting the work done and since the paid version will set you back by $7.99, you are better off with the freeware. However, if you’re a professional or have several team members with you, then you will get access to a lot of features in the paid version, so make sure to try this one out before you decide to become a paid member.
+
+
+Pros
+
+Web-based service is only available, so you do not have to download an app to carry out your work
+Is extremely fast and snappy so you’ll complete your work swiftly
+Google Drive syncing is available so you’ll take your work and progress with you at any time and at any location
+Cons
+
+Paid version of the application is more expensive than Office 365 so you should only use it when you need the extra tools or if you are a professional
+Official Website
+
+5. Creately
+Creately is similar to Gliffy in the sense that it is another web-based application and targets Visio’s huge utility belt and is designed to be a fun-filled experience. The way the app has been designed and functions, it becomes ideal for business users and classroom. Also, it does things in a very simple manner to allow convenience for the user but there are disadvantages of using it.
+
+Creately is not entirely free and while there is a free web-based service to use around, there is also a paid service while provides more features. Unfortunately, the free service is going to be extremely limited in terms of documents and other changes so if you want to gain access to a lot of tools, then you will have to opt for the paid version. Luckily, Creately is quite cheap for the paid version, requiring a $5 fee per month or a $49 price for a 12-month period, which seems quite reasonable.
+
+There is also a dedicated desktop app for those that do not like to use other web-based alternatives to Visio, but it carries a one-time fee of $75. While it is compatible with Mac, Windows, and Linux, Chrome OS support is dead in the water.
+
+
+ 
+
+Pros
+
+Web and desktop service available
+Meant for businesses and for fun purposes
+Simple interface means you can work on this app very comfortably
+Cons
+
+Free version is limited to what it can deliver
+There is no Chrome OS support to be offered at this current time
+There is a dedicated desktop app, but it has a paywall that needs to be scaled through
+Official Website
+
+6. Dia
+Dia is a very competent Visio alternative and allows you to import a variety of formats to save and open files effortlessly. It also has a full selection of shape packages depending on what you want to work on. Unfortunately, it does not have a web-based service so you are limited to running it on either your Mac, Windows, or Linux operating system.
+
+Since Chrome OS support is not present, it is better to look for something else if you are still a Chromebook. Still, if you have can create engaging visual presentations and diagrams but unfortunately happen to be on a budget, then this free tool is going to provide you with a gateway to make your progress possible. It is not a perfect tool, but then again, what tool is?
+
+
+Pros
+
+Free desktop service that is compatible with a variety of operating systems
+Easy access to a wide-range of visuals and diagrams, especially if you are on a strict budget
+Cons
+
+Lack of Chrome OS support
+No web-based application present
+Official Website
+
+7. LibreOffice Draw
+LibreOffice Draw is an open-source program, allowing developers to make adjustments to the application in order to improve it accordingly. It is available for operating systems like Windows, Mac, and Linux but there is no Chrome OS support provided, most likely due to the lack of storage on such machines. LibreOffice Draw is very similar to Visio and OpenOffice Draw, so you will get accustomed to using it right away.
+
+If there was a single gripe to be found from all of this, it is that the app has a user interface that looks ancient, like someone did not bother to make a few cosmetic changes here and there to improve the overall look. Still, if you are not bothered by this, then there is no way why you should not make this your daily driver.
+
+
+Pros
+
+Looks very similar to Visio, so you will get used to it in no time
+Open-source program to allow developers to improve it over time
+Cons
+
+No Chrome OS support unfortunately
+User interface looks a bit dated, which will give the impression that it has not been updated in a long time
+Official Website
+
+8. Pencil Project
+Pencil Project is free, and is an open-source alternative to Visio, making its nature appear very similar to the applications that we recommended you to try out earlier. It features one of the best user interfaces for an open-source visual development tool so be sure to check this out before you try out the others. There is also a wide collection of shape varieties, and lines that you can create flowcharts using a copious number of tools at your fingertips.
+
+Though it does not have a web-based service, it sees regular updates that optimize the application and is expected to run better with every update rolled out. If you’re looking for a desktop-based application to create visual presentations, you should totally try this one.
+
+
+Pros
+
+Open source program so regular updates are guaranteed
+One of the best user interfaces available for you from a program that is open-source and free
+Lots of tools for you to create flowcharts, diagrams and more
+Cons
+
+No web-based service available
+Desktop application means that Chromebook users will not be able to use this
+Official Website
+
+9. yEd Graph Editor
+yEd as a viable Visio alternative is one of the best programs available to use at this time. With a tremendously sharp and solid user interface with which you can get a whole lot of customization options, feel free to create one of the most appealing flowcharts there are without any obstacle standing in your path. The application also supports importing files from Visio right down to creating your own ones from scratch.
+
+The files that you end up saving are also accessible on your own website, and everything that you end up using is considered free. If that does not satisfy you, then you will be very happy to hear that a desktop application for Windows is present, and so is a web-based client plus support for mobile devices.
+
+
+Pros
+
+Extremely well-made user interface
+Tons of customization options available at your fingertips
+Importing files from Microsoft Visio can be done painlessly
+Desktop and web-based application are both available
+So is support for smartphones and tablets
+Cons
+
+No desktop application for Mac but you can use the web-based service for that
+No Chrome OS support
+Official Website
+
+10. Google Drawings
+Last but certainly not least we have Google Drawings, which is pretty much a Visio alternative from another tech giant. Google has its dedicated office suite to tackle Microsoft’s software and for Visio, you have Google Drawings. This is a web-based diagramming tool that is included in the same Google Drive suite as Docs, Sheets, and Slides.
+
+Google Drawings is also available as a web application and as an offline Chrome app in the Web Store, so you have the option to choose which approach you are most comfortable with. Now, this advantage you might already be aware of but syncing to Google Drive is going to be a piece of cake to take your work and flowcharts wherever you happen to be but just make sure to be connected to an active internet connection.
+
+You can also export your diagrams easily, making it one of the best solutions out there from a top-notch tech company.
+
+
+Pros
+
+Belongs to Google so continuous updates and improvements are more than guaranteed
+Web-based service and desktop application are available
+Directly competes with Visio and at no cost
+Syncs with Google Drive so you will be able to take your work as long as there is an active internet connection
+Exporting diagrams can be done in the blink of an eye
+Support for Chrome OS is present
+Cons
+
+Those coming from a different alternative might not get immediately comfortable using the app for the very first time
+Official Website
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Five Apps
+1: ProjectLibre
+ProjectLibre (previously known as OpenProj) is open source project management software that openly bills itself as a replacement for MS Project. (Cheeky!) It's compatible with MS Project 2003, 2007, and 2010, and Linux, MacOS, and Windows, so it covers almost everybody. It also supports several languages.
+
+2: GanttProject
+GanttProject's claim to fame is simplicity and if you specify during installation, as shown in Figure C, it will open MS Project files. It's free and supports versions for Windows, Mac OS X, and Linux. Customizing Gantt view, shown in Figure D isn't as easy as it could be, but it's easy enough. Dependencies are easy to create and display, similar to MS Project and ProjectLibre. Its reporting options are impressive, but it doesn't support costing features.
+
+3: ToDoList
+For simplified and flexible task management, ToDoList can't be beat. It's not a full-blown project management application, but it's perfect for keeping smaller projects on task. Figure E shows the main window where you'll enter tasks. You can add and delete options, to suit your working needs. Calendar view, shown in Figure F offers a day-by-day accounting. Using XML style sheets, you can customize reports. Online documentation isn't comprehensive, but it's a reasonable start.
+
+4: 2-plan Project Management Software
+Everything that ToDoList isn't, 2-plan Project Management Software is. It's the enterprise version you might need if your organization is larger and you juggle several projects at once. Figure G shows two projects with 2-plan's high-end perspective. It comes with a serious learning curve. Consider 2-plan for enterprise-level project management. Figure H shows the addition of a new milestone.
+
+5: Open Workbench
+Open Workbench isn't as intuitive right out of the box as other offerings in this list and it's strictly a Windows app. You can create milestones, and assign tasks, resources, and dependencies. You can also track and compare budgetary allowances. It all works, but the learning curve is steeper than the others. The interface isn't friendly or as intuitive as most of us have come to expect. For instance, adding a dependency takes a bit of discovery, as you can see in Figure I. Fortunately, the interface is interactive, so you can avoid most of the menu hunting and right-clicking.

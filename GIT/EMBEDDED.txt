@@ -1,0 +1,81 @@
+MQX, FreeRTOS, ThreadX , eCos, VxWorks
+    C/C++, OpenCL
+    Make, TCL
+    GDB or Similar (General C debugging tools)
+    FreeRTOS/Micrium
+    RTOS/QNX/VxWorks
+    OpenCV
+    Github
+    Xilinx SDK/Eclipse tools
+    ASIC/FPGA design or verification experience – VHDL or Verilog
+Supported Architectures
+
+    ARM
+        ARM7, ARM9, ARM11
+        Cortex-M, Cortex-R, Cortex-A
+        Cortex-Axx 64-bit
+        TrustZone ARMv8-M
+    AndesCore
+        RISC-V
+    Analog Devices
+        Blackfin BF5xx, BF6xx, BF7xx
+        SHARC
+        CM4xx
+    Ambiqmicro
+        Apollo MCUs
+    Cadence
+        Xtensa
+        Diamond
+    CEVA
+        TeakLite-III
+    Cypress
+        PSoC, PSoC 4, PSoC 5, PSoC 6
+        FM0+, FM3, FM4
+        WICED WiFi
+    EnSilica
+        eSi-RISC
+    Infineon
+        XMC1000
+        XMC4000
+    Intel & Intel FPGA
+        ARM (Cyclone SOC, Arria 10 SOC)
+        NIOSII
+        x86PM
+    Microchip
+        ARM (SAM)
+        AVR32
+        PIC24
+        PIC32
+    Microsemi
+        RISC-V
+    NXP
+        ARM (LPC, i.MX, Kinetis)
+        68K
+        Coldfire
+        PowerPC
+    Renesas
+        ARM (Synergy, RZ)
+        H8/300H
+        RX
+        SH
+        V850
+    Silicon Labs
+        EFM32
+    ST
+        STM32
+    Synopsys
+        ARC 600, 700
+        ARC EM, ARC HS
+    Texas Instruments
+        ARM (Tiva-C, Sitara, OMAP)
+        C5xx
+        C6xx
+    Wave Computing
+        MIPS32 4Kx, 24Kx, 34Kx, 1004K
+        microAptiv, interAptiv, proAptiv
+        M-Class
+    Xilinx
+        ARM (Zynq, Zynq UltraSCALE)
+        MicroBlaze
+        PowerPC
+

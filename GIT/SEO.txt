@@ -1,0 +1,25 @@
+
+<TITLE>
+<META NAME =KEYWORDS ;CONTENTS= ;>
+<META NAME =DESCRIPTION ;CONTENTS= ;>
+SRC=; ALT=;
+SEM Rush
+ Page title
+ Meta description
+ H1, H2, H3, etc. tags
+ URL
+ Text to links to pages within your site
+ Google Analytics
+ Semantic connectivity
+ Ahrefs
+ Link analysis
+ link neighborhood
+ Keyword use in title tag
+Anchor text of inbound link
+Global link authority of site
+Age of site
+Link popularity within the site’s internal link structure
+Topical relevance of inbound links
+Link popularity of site in topical community
+Keyword use in body text
+Global link popularity of sites that link to the site

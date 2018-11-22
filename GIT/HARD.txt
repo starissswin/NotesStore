@@ -1,0 +1,81 @@
+Particulars (Computer Service Charges)	Charges
+ 
+Visit Charges	 
+Remote Support, Consultant Fee (Only for Desktops & Network)	Rs.  200/-
+ 	 
+Desktop Call Charges	 
+Desktop Call (Normal Call - E.g Application Installation / Driver Problem)	Rs.  350/-
+Desktop Call (Normal Call - E.g Application Installation / Driver Problem) Branded (HP / Compaq / Dell / Zenith / Sahara / Toshiba)	Rs.  100/-
+Desktop Call (Virus Issue)	Rs.  500/-
+Desktop Call (Virus Issue) Multiple PC or Network	Rs.  1200/-
+Desktop Call (Re installation Operating System)	Rs.  500/-
+Desktop Call (Fresh Installation Operating System & All Required Software and Drivers.) (License Required)	Rs.  800/-
+Preventive Maintenance (Servicing) - Single Computer Required Minimum 10 PC	Rs.  150/-
+Network Call Charges	 
+Network Call (Rj45 Connector, Cat5 Cable Problem, NIC Card Configuration, IP Address Configuration , Any Application Related to Network, Printer Sharing, Files & Folder Sharing)	Rs.  600/-
+Computer Hardware Health Checkup - Routine Visit
+(Less then 10 Computers)	Rs.  500/-
+Computer Hardware Health Checkup - Routine Visit
+(More then 10 upto 25 Computers)	Rs.  1000/-
+Laptop Call Charges	 
+Laptop Call (Normal Call - E.g Application Installation / Driver Problem)	Rs.  400/-
+Laptop Call (Virus Issue)	Rs.  600/-
+Laptop Call (Re installation Operating System)	Rs.  800/-
+Laptop Call Standard (Fresh Installation Operating System & All Required Software and Drivers.) (License Required)	Rs.  800/-
+Laptop Call Advance (Downgrade and Upgrade Operating System & All Required Software and Drivers.) (License Required)	Rs.  1200/-
+Laptop Hardware Diagnosis	 
+Laptop Hardware Diagnosis (No Fix with Pick n Drop service / N.R / Q.N.A )	Rs.  400/-
+Laptop Service (Preventive Maintenance) (Overheating)	Rs.  750/-
+On site Laptop Hardware Parts Replacement Charges Extra	Rs.  500/-
+Laptop Hardware Troubleshooting (No Display / Dead Laptop / Motherboard Issue) (Minimum Charges)	Rs.  2800/-
+Laptop Hardware Parts Price	 
+Laptop LCD Screen Replacement (15.4 wxga,14.1wxga, 14xga -15xga, 13.3 LED)	Rs.  5200 /7200/-
+Laptop LCD Swapping Charges	Rs.  500/-
+Laptop LCD Inverter (Dim Display)	Rs.  1800/-
+Laptop LCD Cable	Rs.  2500/- Onwards
+Laptop DVD Replacement	Rs.  2450/-
+Laptop Motherboard Replacement	Rs.  10500/- Onwards
+Laptop AC Adapter Power Jack (Motherboard Side)	Rs.  1800/- Onwards-
+Laptop Keyboards	Rs.  1800/- Onwards
+Laptop Keyboard Swapping Charges	Rs.  400/-
+Laptop Hinges	Rs.  2500/- Onwards
+Laptop Body Fabrication	Rs.  2800/- Onwards
+Server Call Charges	 
+Server Call (Normal Call - E.g Application Installation / Driver Problem)	Rs.  1200/-
+Server Call (Linux / Unix)	Rs.  2000/-
+Server Call (Fresh Installation Windows Operating System, Driver, Software, Microsoft Application, File & Folder Rights, Active Directory) (License Required)	Rs.  5000/-
+Server Health Checkup - Single Server (HP / Dell / IBM)	Rs.  3500/-
+Monitor Repair Charges	 
+Computer Monitor Call (CRT)	Rs.  400/-
+Computer Monitor Call (LCD)	Rs.  500/-
+Printer Repair Charges	 
+Printer Call (DMP, Deskjet and Inkjet)	Rs.  300/-
+Printer Call (Laserjet)	Rs.  450/-
+Printer Call (Higher end DMP or Laserjet)	Rs.  800/-
+Software Support Charges	 
+Mail Server (Microsoft Exchange up to 25 Users) (License Required)	Rs.  8000/-
+Firewall (Microsoft ISA up to 25 Users) (License Required)	Rs.  12000/-
+Firewall (Kerio up to 10 Users) (License Required)	Rs.  6000/-
+Firewall (Linux Indian up to 25 Users) (GNU License)	Rs.  15000/-
+WSUS Server (At one location, up to 25 users)	Rs.  6000/-
+Anti virus Server (up to 25 Users) (License Required)	Rs.  5000/-
+Site to Site VPN & Client to Server VPN (On MTNL Broadband Line)	Rs.  5000/-
+Residence Engineer (4 Hours / Backup Engineer / FMS)	 
+Level 1-2 Engineer ( 1 to 2 Experience )	Rs.  400/-
+Level 2-3 Engineer ( 5 to 6 Experience )	Rs.  500/-
+Level 3-4 Engineer ( 7 to 8 Experience )	Rs.  700/-
+Annual Maintenance Contract Charges	 
+Non- Comprehensive AMC for Desktops	Charges
+Desktop Computer	Rs.  2,500/- Per Desktop
+Laptops	 
+Notebook / Laptop Computer	Rs.  2,500/- Per Laptop
+  
+Network Support	 
+Desktop / Laptop / Router - (File, Printer and Internet Sharing {LAN / Wan})	Rs.  500/- Per Desktop/Laptop
+Software Support	 
+Desktop / Laptop -(Microsoft OS / Office / Outlook, Winrar, PDF, Data Backup)	Rs.  500/- Per Desktop/Laptop
+Third party (Tally / Tax Pro / Odin / Centralized Data solutions / IP Phone / Attendance Machine / IP Camera / Contact Keeper / Digital Signature )	Rs.  Extra/-
+Remote Support	 
+Remote Desktop Service	Rs.  500/- Per Desktop/Laptop
+  
+We are providing special rate of A.M.C for Malad Customer Call on the above numbers. To know the more details.	  

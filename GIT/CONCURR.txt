@@ -1,0 +1,52 @@
+CentOS7/RHEL7: adjust /etc/httpd/conf.modules.d/00-mpm.conf
+Debian: use a2dismod / a2enmod to disable the wrong and enable the desired MPM Module.
+Concurrent Connections
+By default apache2 is configured to support 150 concurrent connections. This forces all parallel requests beyond that limit to wait. Especially if, for example, active sync clients maintain a permanent connection for push events to arrive.
+
+This is an example configuration to provide 8000 concurrent connections.
+
+<IfModule mpm_worker_module>
+    ServerLimit              250
+    StartServers              10
+    MinSpareThreads           75
+    MaxSpareThreads          250 
+    ThreadLimit               64
+    ThreadsPerChild           32
+    MaxRequestWorkers       8000
+    MaxConnectionsPerChild 10000
+</IfModule>
+Note: MaxRequestWorkers was previously named MaxClients and MaxConnectionsPerChild was previously named MaxRequestsPerChild. If you are using old (pre 2.4) verions of apache you might need to use the old names.
+
+
+Short explanation of the parameters:
+
+ServerLimit-	Declares the maximum number of running apache processes. If you change this value you have to restart the daemon.
+StartServers-	The number of processes to start initially when starting the apache daemon.
+MinSpareThreads/MaxSpareThreads-	This regulates how many threads may stay idle without being killed. Apache regulates this on its own very well with default values.
+ThreadsPerChild-	How many threads can be created per process. Can be changed during a reload.
+ThreadLimit	ThreadsPerChild- can be configured as high as this value during runtime. If you change this value you have to restart the daemon.
+MaxRequestWorkers-	This declares how many concurrent connections we provide. Devided by ThreadsPerChild you get the suitable ServerLimit value. May be less than ServerLimit * ThreadsPerChild to reserve some resources that can be engaged during runtime with increasing MaxRequestWorkers and reloading the configuration.
+MaxConnectionsPerChild-	Defines the number of Connections that a process can handle during its lifetime (keep-alives are counted once). After that it will be killed. This can be used to prevent possible apache memory leaks. If set to 0 the lifetime is infinite.
+
+If you are worried about a single server not being able to cope with too many connections you should consider using a web cache like Varnish
+
+Use the apache2 mpm worker engine.
+Disable any unneeded module.
+Check for other bottlenecks (firewalls, kernel network settings)
+
+ mod_ssl-> for enabling SSL v3 and TLS support. Some common features seen in Apache include:
+
+.htaccess
+IPv6
+FTP
+HTTP/2
+Perl, Lua, and PHP
+Bandwidth throttling
+WebDAV
+Load balancing
+URL rewriting
+Session tracking
+Geolocation based on IP address
+
+Apache doesn’t perform as well in some benchmarks, especially for static websites or websites with high traffic, Kinsta uses the NGINX web server instead of Apache
+

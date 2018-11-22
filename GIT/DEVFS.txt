@@ -1,0 +1,38 @@
+Experience with Big Data and distributed systems using technologies such as Hadoop, Spark, Python, Java and Scala
+Java 8, Microservices, Spring Boot, and Webservices. Any experience with Spring Cloud, Spring Integration or Kafka is a strong plus,
+ ElasticSearch  with Cassandra and/or Go is highly preferred 
+ Development with Node.js
+Mobile development (either Native or Cross Platform)
+Building Angular components
+Building REST API or other server tools with backed technologies, such as Ruby, Java, .Net or SQL
+Authentication with tokens utilizing technologies such as OAuth
+Experience developing and deploying Java/J2EE applications
+Experience Oracle
+Experience in Linux
+Experience in Apache Camel & AWS
+Experience with modern programming languages like Java, Python and Scala
+Expertise with data processing using RedShift or Hive
+Experience with different data management systems like Spark, or Pentaho
+Strong working knowledge of Java development
+Experience with Microservices architecture
+Strong working knowledge of AWS, GCP, and/or Azure
+Experience using Hadoop ecosystem
+Experience with Kafka Clusters
+Strong knowledge and understanding of Big Data technologies
+Familiarity with multi-tenancy, distributed systems and multi-threading
+Experience with near real-time data
+You Should have a strong understanding of how to build a a serverless IoT platform with AWS
+You should have a strong OOP coding background with either Java , Scala, or python
+You should have experience driving projects from start it finish
+It would be great if you had as strong understanding of Systems Architecture and Linux
+Experience with different JavaScript libraries and Web frameworks (Angular/ Bootstrap/ Knockout/ React)
+Strong knowledge of web application frameworks and patterns (Struts, Spring, MVC)
+Experience writing SQL queries and strong knowledge of relational database structures.
+Experience writing AJAX modules.
+Expert knowledge of Object-Oriented Programming techniques 
+Application build tools experience like Ant, Maven, Gradle.
+Familiarity with Continuous Integration tools like Jenkins, CruiseControl, Hudson
+Automated test designs
+Strong experience with repository tools like Subversion, CVS, or Git
+Strong knowledge of Internet/Web technologies and languages including Javascript, CSS and HTML
+Spring Boot, AWS, Docker

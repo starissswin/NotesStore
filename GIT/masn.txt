@@ -1,0 +1,5 @@
+never
+start 
+try
+sleep
+think

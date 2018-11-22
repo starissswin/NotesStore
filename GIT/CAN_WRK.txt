@@ -1,0 +1,40 @@
+2147 Computer engineers (except software engineers and designers)
+2148 Other professional engineers, n.e.c.
+2151 Architects
+
+2171 Information systems analysts and consultants
+2172 Database analysts and data administrators
+2173 Software engineers and designers
+2174 Computer programmers and interactive media developers
+2175 Web designers and developers
+
+2241 Electrical and electronics engineering technologists and technicians
+9222 Supervisors, electronics manufacturing
+2133 Electrical and electronics engineers
+
+0211 Engineering managers
+0601 Corporate sales managers
+
+6211 Retail sales supervisors
+6221 Technical sales specialists – wholesale trade
+6222 Retail and wholesale buyers
+6231 Insurance agents and brokers
+6232 Real estate agents and salespersons
+6235 Financial sales representatives
+0601 Corporate sales managers
+
+2251 Architectural technologists and technicians
+0212 Architecture and science managers
+
+4011 University professors and lecturers
+4012 Post-secondary teaching and research assistants
+4021 College and other vocational instructors
+4031 Secondary school teachers
+4152 Social workers
+
+3233 Licensed practical nurses
+3012 Registered nurses and registered psychiatric nurses
+
+
+NOC code	Job description                                 	NOC
+2174	Computer programmers and interactive media developers	A

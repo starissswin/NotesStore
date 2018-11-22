@@ -1,0 +1,16 @@
+The L3 Support and Infrastructure Operations analyst wil support several Hadoop clusters in development and production environments.
+
+Responsibilities include:
+
+    - Manage several Hadoop clusters in development and production environments
+    - Maintain technology infrastructure
+    - Install new software releases, system upgrades, patches, and evaluation of stability
+    - Tuning of servers, applications and Hadoop infrastructure
+    - Resolve Incidents impacting hosts or environment
+
+Skills Required:
+
+    -Strong UNIX/Linux knowledge
+    -Experience troubleshooting applications and application code
+    -Knowledge and experience in storage systems (SAN, NAS)
+    -Knowledge and experience with either Perl or Python programming

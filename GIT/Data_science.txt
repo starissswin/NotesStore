@@ -1,0 +1,12 @@
+
+    Linear algebra (and ideally basic multivariate calculus)
+    Regression ... linear regression and the things that violate the assumptions of linear models (e.g., autocorrelation in time series data, non-independent observations)
+    Probability theory ... especially Bayes' Law and Central Limit Theorem
+    Numerical analysis (e.g., time series analysis and forecasting)
+    Core machine learning methods (clustering, decision trees, k-NN)
+     Linear Algebra, Convex Optimization,
+      Differential Equations, Calculus,
+       Algorithms, Distributed Computing, 
+       Databases (SQL & NoSQL), Machine Learning,
+        Probabilistic Modeling, Deep Learning,
+         Natural Language Processing, Data Visualization

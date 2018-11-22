@@ -1,0 +1,237 @@
+WHAT IS BUSINESS ANALYST?
+Business Analyst is the practice of enabling change in an organizational context, by defining needs and recommending solutions that deliver value to stakeholders. The set of tasks and techniques that are used to perform business analysis.
+
+BUSINESS ANALYST HELPS BUSINESSES DO BUSINESS BETTER:
+The Business Analyst is an agent of change. Business Analyst is a disciplined approach for introducing and managing change to organizations, whether they are for-profit businesses,governments or non-profits.
+
+Business analyst is used to identify and articulate the need for change in how organizations work, and to facilitate that change. As business analysts, we identify and define the solutions that will maximize the value delivered by an organization to its stakeholders. Business analyst work across all levels of an organization and may be involved in everything from defining strategy, to creating the enterprise architecture, to taking a leadership role by defining the goals and requirements for programs and projects or supporting continuous improvement in its technology and processes.
+
+BUSINESS ANALYST CAREERS:
+Business analyst is distinct from financial analysis, project management, quality assurance, organizational development, testing, training and documentation development. However, depending on the organization, a business analyst may perform some or all of these related functions.
+
+Class Room Training: Available
+Online Training : Available
+Corporate Training : Available
+BUSINESS ANALYST / QUALITY ANALYST / PROJECT MANAGEMENT
+COURSE CONTENT
+Business Analyst Role
+Object Oriented Analysis &Design (OOAD)
+SDLC & UML
+Unified Process
+Business model
+Use case model
+Storyboarding/Mock-ups
+Elicitation Techniques
+Requirements documentation (BRD, SRS etc...)
+Requirements verification
+Systems thinking
+Negotiation skills
+Translation of requirements to design
+Data Modelling and Data Analysis
+BA CONCEPTS
+Tools Training –Overview (MS Visio)
+Upon completion of the course, you will be able to (Learning Objective)
+Describe the responsibilities of the business analyst and the major deliverables for each major step in the business solutions life cycle
+Distinguish between the role of the business analyst and the project manager
+Distinguish between the role of the business analyst and the systems analyst
+List the critical skills needed to be a successful BA
+Define business problems and find their true cause
+Develop tactics for diffusing resistance to change
+Prepare a stakeholder analysis to identify and classify those who will influence and be affected by the solution
+Create and execute a Requirements Development plan
+Use modelling tools and techniques to elicit, document and validate a project’s scope and requirements highlights
+Use business analysis & project management tools
+Assist decision-makers in analyzing and prioritizing business needs
+Create a business case Communicate the results of a business case to stakeholder
+INTRODUCTION & OVER VIEW ON BUSINESS ANALYST
+What is Business Analyst?
+A look at different viewpoints
+What is being analysed?
+What’s the goal?
+Current trends in business analysis
+Key concepts
+Definition
+Reconciled to common understanding within the organization
+Review topics to be covered
+Real time BA work Scenario’s
+THE ROLE OF THE BUSINESS ANALYST
+The relationship of business analysis to project management
+Differentiating between business analysis and other “analyst” roles
+Customer Needs & IT Needs
+The Skill Set Of A BA
+The BA’s Core Knowledge Set
+THE PRACTICE OF BUSINESS ANALYST
+BA Responsibilities
+Requirements Gathering
+OVER VIEW OF SOFTWARE PROJECT & IT COMPANY
+What is software project
+What is software product
+Difference between Project & product
+Different project teams from IT company description
+Clients side project team member description
+How the project are coming to IT companies
+Introduction –Pre sales-post sales
+What is RFI, RFP and RFQ
+OVER VIEW OF KICK OFF MEETING
+What is kick of meeting
+Minutes of meeting
+Role of BA in Kick of meeting
+Real document presentation of Kick of meeting, business proposal & project document
+INTRODUCTION TO IIBA & BABOK
+What is the BABOK?
+What is Business Analysis?
+Key Concepts
+Knowledge Areas
+Domains knowledge Areas
+Techniques
+Underlying Competencies
+Other Sources of Business Analysis Information
+OVER VIEW OF ROLES AND RESPONSIBILITIES IN PROJECT
+Customer, stake holder
+End user’s
+SME’S & TSME’S
+Project sponsor’s, Vendor’s
+It project team like Project manager, developer, test engineer, solution architect
+SDLC METHODS
+SDLC phases
+Project plan Phase
+Analysis Phase
+Design Phase
+Coding-development Phase
+Testing Phase
+Deployment Phase
+DIAGNOSING THE BUSINESS ENVIRONMENT (ENTERPRISE ANALYST)
+Business problem solving
+Understanding the business environment
+Capturing business initiatives across the enterprise
+Diagnosing a business problem or opportunity (i.e.; business initiative)
+Definition of a problem
+Finding and verifying true causes
+Techniques to identify business problems and causes Workflow modelling
+Gap Analysis
+REQUIREMENTS DEFINITION AND DOCUMENTATION
+Assessing stakeholder roles and responsibilities
+Identifying internal and external stakeholders
+Conducting stakeholder analysis
+Selecting requirements development templates
+Stake Holder Request Template
+SOFTWARE ENGINEERING PROCESS MODELS
+SDLC
+Water Fall Model
+Spiral Methodology
+Agile (more evolved, RAD session: reverse-engineer session)
+Incremental Model
+SDLC
+What is requirement
+Requirement classification
+Business case requirements
+Stake holder requirements
+Solution requirements
+i. Functional requirements
+ii.Non functional requirements
+Transition requirements
+Moscow techniques
+Zach man frame work
+3D frame work for requirement gathering
+3D Model for requirement gathering
+DOCUMENTATION PREPARATION
+BRD, FRD, SRS, DRD, AS-IS & TO BE, Use case , User stories
+Real time documentation preparation scenario’s
+Real time documentation assignment’s
+Difference BRD/FRD/SRS/DRD
+ANALYST OF REQUIREMENTS ELICITATION
+Fact gathering methods
+Interviewing
+Observation
+JAD session
+Prototypes, wire frames, storey board ,Mock up, Blue prints
+Questionnaires
+GAP analysis
+As-is & to be document
+Research
+Organizing the facts
+Determining requirements
+Managing requirements
+Building a model of the solution
+Intro to Process modelling using DFDs
+Intro to data modelling –Information modelling
+REQUIREMENTS MANAGEMENT WITH USE CASES
+Key Concepts, Use case Model
+Essentials elements of Use Cases:
+The writing process . . . (Dos and Don'ts)
+Analysing Use Case text to uncover specific system requirements
+Converting Use Case description sentences into well-formed requirement
+A style guide with suggested formats for different levels of Use Case
+List of time-saving Use Case writing tips
+A proven methodology for taking advantage of Use Cases
+Business modelling i.e. techniques of identifying business concepts and tasks, and introducing relevant parts of UML along the way/during Analysis phase.
+Activity Diagram
+STRUCTURAL ANALYST
+What is structural analysis
+Data flow diagrams
+System flow charts
+HIPO charts
+Work flow’s
+MODELING USING UML & OOAD (OBJECT ORIENTED ANALYSIS AND DESIGN)
+UML
+UML Defined
+UML History
+UML diagrams
+UML modelling mechanisms
+Reviews
+Object oriented analysis and design-UML diagrams
+Structural diagrams
+Class, object, package, component, composite and deployment diagrams.
+Behavioural diagrams
+Use case diagrams
+Activity diagrams
+State machine diagrams
+Interaction diagrams
+Sequence diagrams
+Communication diagrams
+Timing diagrams
+Over all interaction diagrams
+Concepts of OOPS(object oriented programming system)
+USE CASE ANALYST OVERVIEW
+Use Case Analysis Overview
+Supplement Use case Description
+Find Classes from Use Case behaviour
+Distribute Use case behaviour to Classes
+Responsibilities of classes
+Describe attributes and associations
+Class Diagrams
+Sequence Diagram
+Collaboration Diagram
+INTRODUCTION TO DATA MODELING, DATA ANALYST & TESTING
+Goals of Data Modelling, Logical & Physical Design (E-R Diagram)
+Introduction SQL, SQL queries.
+Goals of testing, functions performed during testing process, a Business Analyst approach to testing
+Testing methodologies – Black box and white box testing, Positive and Negative tests
+Testing (UAT)
+Reusable test plans, test procedures and Test Cases – template
+Derived test cases from use cases
+Identification of Test Scenarios, tracing test cases to test scenarios
+Traceability matrix
+Business validation and verification
+Analysis of the System results – Documenting unexpected behaviours
+User signoff – Process and fulfilling expectations
+BASIC PROJECT MANAGEMENT PRINCIPLE
+Roles and responsibilities of PM
+Project management process
+Project management knowledge areas
+Project management tools
+PMP certification
+PROJECTS
+Writing Use Cases, Business Rules, Supplemental Specifications in Requisite Pro, Understanding and using attributes
+Introduction to UML Business Modelling and UML
+Advantages to visual modelling, interface, views and diagrams
+Managing UML entities and relationships for the various UML diagrams
+Use Case, Activity and State Diagrams
+Sequence and Class Diagrams
+OTHERS
+Mock up interviews
+Resume preparation
+Interview questions
+Interview schedules
+Domain training
+Case studies

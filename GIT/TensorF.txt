@@ -1,0 +1,21 @@
+ Selecting features, building and optimizing classifiers using machine learning techniques
+  Data mining using state-of-the-art methods,o Enhancing data collection procedures 
+  to include information that is relevant for building analytic systems,o Processing,
+   cleansing, and verifying the integrity of data used for analysis,
+   Doing data analysis and presenting results in a clear manner,
+    Creating automated anomaly detection systems and constant tracking of its performance.,
+     Good understanding of NLP based techniques to extract right information from huge amounts of data like emails, documents,
+     o Experience with common ML / data science and NLP toolkits using Python, R, etc. 
+     Excellence in at least one of these is highly desirable.
+     Experience in ML on any of the platforms like Azure, AWS, Google or IBM Watson,
+     o Experience in Deep Learning using Neural Networks on any of the platforms like Tensorflow,
+      ScikitLearn.,o Great communication skills,o Experience with data visualization 
+      tools such as Tableau, ggplot, Giraph, Bokeh, iPython, etc.,o Proficiency in 
+      using query languages such as SQL, Hive, Pig,
+      o Experience with NoSQL databases,
+       such as MongoDB, Cassandra, HBase,o Good applied statistics skills, such as distributions,
+        statistical testing, regression, etc.,o Good scripting and programming skills in one of the relevant languages 
+        like Pyton, R, Java,o Excellent understanding of machine learning techniques 
+        and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, Clustering
+ XXXXXXXXXX ?1,00,000
+        

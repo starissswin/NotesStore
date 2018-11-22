@@ -1,0 +1,117 @@
+Systems Administrator
+Ash Sharq?yah
+To provide in house server support and where necessary to work with the outsourced IT Provider
+Design, install and configure internal servers
+Proactively manage and maintain servers
+Administer and support core Microsoft, Hyper-v and UTM technologies
+Develop and implement project plans, risk assessments and contingency plans
+Design and implement monitoring, configuration management and reporting functions that will make a hands-off environment
+Define and document best practices and support procedures
+Provide after-hours support for Infrastructure related emergencies as well occasional weekend maintenance and planned tasks
+Manage and Maintain Sharepoint 365
+Maintain inventory and asset configuration documentation
+Manage and support PABX/Switchboard
+Manage and design the Backup and Restore procedures.
+13) Assist with hardware, telecom and software vendor evaluation, recommendation and negotiations
+14) Mentor / cross train team members on existing and new technologies
+15) Interact with staff at the technical level, as required
+16) Other duties as assigned
+Skills
+1) 6+ years of experience in related filed
+2) Microsoft Certification (MCTS, MCSE, MCITP) or equivalent certification in relevant programs is desired
+3) Advanced knowledge of Windows Server (2012/2016) /desktop Operating Systems (8.1/10)
+4) Managing deployments/rollouts
+5) Managing large scale Citrix/Terminal Server installations
+6) Managing server virtualization technologies like VMWare Server/ESX or Microsoft Hyper-V/Virtual Server
+7) Group Policy design and configuration
+8) Microsoft IIS administration and configuration
+9) Cloud email management (e.g. Microsoft 365)
+10) Active Directory/LDAP user and group administration
+11) Ability to troubleshoot network issues including back bone infrastructure issues
+12) Strong communication and documentation skills
+13) Flexible and able to adapt to a rapidly changing environment
+14) Must be organized and have the ability to manage projects of varying length
+15) Positive, self-motivated individual who can complete tasks independently
+16) Must be a team player
+17) Experience and knowledge of the following areas:
+Storage and volume management technologies (SAN, NAS) including RAID and
+volume management
+Use of virtual desktops
+MS SQL Server 2012/2016 administration
+Web/HTML technologies
+SNMP based monitoring systems (e.g. Nagios, HPOV, and WhatsUpGold)
+18) Solid technical background in IT and MIS systems
+19) Excellent knowledge of MS SharePoint Products and Technologies
+20) A solid understanding of LAN/WAN networking
+21) LAN and WAN Routing and Switching design, configuration and troubleshooting (VLANs, IP Subnetting, 802.1Q trunks) is desirable
+22) Cisco Certified Network Associate or Professional - CCNA/ CCNP is desirable
+23) Problem solving and analytical skills
+24) Ability to work under pressure whilst demonstrating a flexible, enthusiastic and hardworking attitude
+Education
+B.S. in Management Information Systems or Computer Science
+
+
+Systems Administrator
+Confidential Company
+
+
+Job Description
+To provide in house server support and where necessary to work with the outsourced IT Provider
+Design, install and configure internal servers
+Proactively manage and maintain servers
+Administer and support core Microsoft, Hyper-v and UTM technologies
+Develop and implement project plans, risk assessments and contingency plans
+Design and implement monitoring, configuration management and reporting functions that will make a hands-off environment
+Define and document best practices and support procedures
+Provide after-hours support for Infrastructure related emergencies as well occasional weekend maintenance and planned tasks
+Manage and Maintain Sharepoint 365
+Maintain inventory and asset configuration documentation
+Manage and support PABX/Switchboard
+Manage and design the Backup and Restore procedures.
+13) Assist with hardware, telecom and software vendor evaluation, recommendation and negotiations
+14) Mentor / cross train team members on existing and new technologies
+15) Interact with staff at the technical level, as required
+16) Other duties as assigned
+Skills
+1) 6+ years of experience in related filed
+2) Microsoft Certification (MCTS, MCSE, MCITP) or equivalent certification in relevant programs is desired
+3) Advanced knowledge of Windows Server (2012/2016) /desktop Operating Systems (8.1/10)
+4) Managing deployments/rollouts
+5) Managing large scale Citrix/Terminal Server installations
+6) Managing server virtualization technologies like VMWare Server/ESX or Microsoft Hyper-V/Virtual Server
+7) Group Policy design and configuration
+8) Microsoft IIS administration and configuration
+9) Cloud email management (e.g. Microsoft 365)
+10) Active Directory/LDAP user and group administration
+11) Ability to troubleshoot network issues including back bone infrastructure issues
+12) Strong communication and documentation skills
+13) Flexible and able to adapt to a rapidly changing environment
+14) Must be organized and have the ability to manage projects of varying length
+15) Positive, self-motivated individual who can complete tasks independently
+16) Must be a team player
+17) Experience and knowledge of the following areas:
+Storage and volume management technologies (SAN, NAS) including RAID and
+volume management
+Use of virtual desktops
+MS SQL Server 2012/2016 administration
+Web/HTML technologies
+SNMP based monitoring systems (e.g. Nagios, HPOV, and WhatsUpGold)
+18) Solid technical background in IT and MIS systems
+19) Excellent knowledge of MS SharePoint Products and Technologies
+20) A solid understanding of LAN/WAN networking
+21) LAN and WAN Routing and Switching design, configuration and troubleshooting (VLANs, IP Subnetting, 802.1Q trunks) is desirable
+22) Cisco Certified Network Associate or Professional - CCNA/ CCNP is desirable
+23) Problem solving and analytical skills
+24) Ability to work under pressure whilst demonstrating a flexible, enthusiastic and hardworking attitude
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Abacus Technology Corporation
+-
+Riyadh
+Abacus Technology is seeking a System/Network Administrator to support administration and client/server management for an enterprise environment. This is a full-time position located in Saudi Arabia.
+Responsibilities
+Integrate computer and network systems into the network, which encompasses all LAN/WAN Internet access. Conduct support activities in all phases of the systems development life cycle, from planning through operations. Manage IP-related services. Provide “Tier 2 level” problem resolution services and provide all information related to reliability and availability of all resources managed within the organization. Maintain a Windows AD environment. Operate, configure, and maintain servers, routers, and switches. Administer user accounts. Work directly with NCC and NOSC to maintain the network.
+Qualifications
+10 years experience in system or network administration. Bachelor’s degree in Systems Engineering, Computer, Telecommunications, Information Systems or related technical experience. Must be MCSE, CCNA, and A+ certified. Additional certifications such as Security+ and/or CCNP a plus. Experience with operations, administration, configuration, and maintenance of MS Exchange Client/Server Hardware/Software and Active Directory (AD). Knowledge of administration, configuration, and maintenance of desktop Hardware/Software. Experience with system backup using various Backup Applications. Knowledge of Network Firewall configuration and management. Experience with administration, configuration, and maintenance of Cisco Routers and switches. Experience administering MS SharePoint portals. Experience using network monitoring devices such as CiscoWorks and/or TACACS+. Experience with System Center Configuration Manager (SCCM) and System Center Operations Manager (SCOM). Familiarity with BMC Remedy. Must be able to communicate effectively and professionally within all levels of an organization. Must be a US citizen and hold a current Secret clearance.
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+

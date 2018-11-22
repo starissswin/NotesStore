@@ -1,0 +1,46 @@
+University	Tuition (MS Programs) Fees (USD/yr)*	More+
+University Of Texas at Dallas	25000(Out-of-State)
+13000(In-state)	Very Few P/T jobs are available. Normal cost of Living.
+University of Texas at Arlington	18000(Out-of-State)
+9000(In-state)	Very Few P/T jobs are available. Normal living costs.
+NJIT	28000(Out-of-State)
+20000(In-State)	Financial aid is tough. Cost of living little is higher.
+Texas A&M University	19000(Out-of-State), 9000 (in-state)	Normal cost of Living. Financial aid generally given after one sem.
+Arizona State University	27000(Out-of-State)
+13000(In-State)	Financial aid is avg.
+University of Arizona	33000 (Out-of-State)
+14000 (In-State)	Chances of getting funding is better after one sem.
+Illinois Institute of Technology	31000	Financial aid is tough
+University at Buffalo - SUNY	13000(Out-of-State)
+8500(In-state)	Less financial aid... good for Ph.D.
+Ohio State University	27000(Out-of-State)
+15000(In-State)	Financial aid generally after one sem.
+University of South California	44000	Very Few aid opportunities (almost none for MS). Get Financial aid in beginning or You should have enough funds.
+University of Cincinnati	29000(Out-of-State)
+16000(In-State)	Good at financial aid. Good Location. Most MS Students are supported.
+University of Illinois, Chicago	29000(Out-of-State)
+18000 (In-State)	Financial aid requires good GRE/GPA. Good Location.
+University of Florida	24000(Out-of-State)
+12000(In-State)	Reputed University. Nice Location. Good Placements.
+Clemson University	21000(Out-of-State)
+11000(In-State)	Ok aid Scene. Respected.
+Missouri University of Science and Technology	30000 (Out-of-state)
+12000(In-state)	Excellent in Electromagnetics. Fair aid Scene. Respected.
+Wayne State University	26000(Out-of-State)
+14000(In-state)	Cheap. P/T available easily.
+Washington State University	26000(Out-of-State)
+13000(In-State)	Good aid Scene.Respected. Excellent Location
+University of Wisconsin-Madison	27000(Out-of-State)
+13000(In-State)	Top Ranked University.
+Portland State University	19000(Out-of-State)
+14000(In-State)	Good for VLSI. Good location for VLSI.
+University of Dayton	18000	Good for Aerospace. No application fee.
+North Carolina State University	25000(Out-of-State)
+1000(In-State)	Excellent location. Ranked University.
+Drexel University	34000	Good location.
+University of Utah	23000(Out-of-State)
+7000(In-State)	good for EE/CS.Cheap. Respected
+University of Houston	19000 (out-of-state)
+11000(In-State)	Good for Telecom. Excellent Location.
+University of North Carolina Charlotte	22000(Out-of-State)
+9000(In-State)	Fair aid scene.

@@ -1,0 +1,22 @@
+DWNN Distance-Weighted Nearest Neighbors
+ERM Empirical Risk Minimization
+GD Gradient Descent
+IPM Interior Point Method
+JPD Joint Probability Distribution
+KDA Kernel Discriminant Analysis
+KKT Karush-Kuhn-Tucker
+KNN K-Nearest Neighbors
+KPCA Kernel Principal Component Analysis
+LDA Linear Discriminant Analysis
+LRR Low-Rank Representation
+ML Machine Learning
+MLP Multilayer Perceptron
+PAC Probably Approximately Correct
+PCA Principal Component Analysis
+PDF Probability Distribution Function
+RBF Radial Basis Function
+SLT Statistical Learning Theory
+SVD Singular Value Decomposition
+SVM Support Vector Machine
+UCI The UC Irvine Machine Learning Repository
+VC Vapnik-Chervonenkis

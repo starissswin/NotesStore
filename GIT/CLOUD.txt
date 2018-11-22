@@ -1,0 +1,7 @@
+Experience with Linux, AWS, Kubernetes, Terraform, Containerization, Chef, Kafka/Kinesis, SQS, HashiCorp Vault.
+Know the difference between configuration, orchestration, and provisioning tools.
+Familiar with Continuous Integration/Deployment and related tools.
+Passionate about metrics and automation.
+Experience in MDM ETL AWS, Big Data, Java Services , Big data, Pig script, AWS, Autsosy, EMR, EC2, S3, Shell Scripting, mySQL, Oracle
+Good to have Data transformation knowledge
+Development work experience in Agile framework

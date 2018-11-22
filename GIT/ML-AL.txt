@@ -1,0 +1,37 @@
+Experience programming in languages such as Python, Java, Scala, Ruby, R
+Experience working with SQL and relational databases
+experience with machine learning, artificial intelligence, statistical modeling, and data mining techniques
+Experience with one or more machine learning algorithms such as neural networks, regression, clustering etc.
+Working experience with machine learning technologies such as TensorFlow, Keras, ScikitLearn, H20.ai, MXNet, Caffe, Gluon etc. is highly desirable
+Experience with AWS or other cloud environments is desirable
+Knowledge of Big Data and NoSQL systems such as Snowflake, Hadoop, Spark, MongoDB, etc. is a plus
+PhD degree in Computer Vision or Machine Learning; Masters in same field with extensive experience will be considered
+Multiple years of experience developing algorithms and solving problems in computer vision/perception
+Extensive exposure to developing machine learning systems, with extensive experience on deep learning systems (Tensorflow preferred)
+Experience in the autonomous vehicle space preferred
+Advanced proficiency in C++, Python, OpenCV, and related tools
+Experience with 3D reconstruction, radar, LiDAR, sensor fusion, camera calibration, and SLAM
+Experience with massively-scalable distributed compute product architectures
+Experience with developing artificial intelligence-based services involving model training, selection and serving
+Experience with microservices oriented architectures, TensorFlow based AI orchestration, test driven development (TDD) & other testing methodologies, and a zeal for automation at all levels
+Experience with scaling Big Data infrastructure (HDFS, Solr, ELK, Spark)
+Experience with engineering simulation platforms (ANSYS, Dassault Systems, Siemens etc.) preferred
+Experience with industrial IoT systems like SCADA data systems, historians and edge data systems preferred
+Experience extracting and manipulating large datasets
+Development experience in any scripting language (PHP, Python, Perl, etc.)
+Knowledge of at least one modeling framework (e.g., SciKit Learn, TensorFlow, SAS, R, MATLAB)
+Highly proficient in spoken and written English
+Experience working for Facebook, Amazon, LinkedIn or Google required
+Software engineering experience in two or more of C/C++, Python, Scala, Java, R, Matlab.
+Experience working with edge-computing frameworks like, CoreML, Greengrass etc. preferred.
+Experience with deep learning frameworks (e.g., Keras, Tensorflow, Tensorlite, MxNet) is desirable.
+Experience with chipset architectures (Snapdragon 845, Google edge TPUs etc.) is desirable.
+A leader who enjoys working with teams utilizing talent, multiple code languages and development platforms to generate live products.
+Has a minimum of 4 years professional work experience in computer vision machine learning neural network architectures especially capability with Python, Tensorflow and Opencv.
+Ideally, someone who has taken deep learning/machine vision technology from R&D to commercialization and has shown the ability to scale a product in commercial setting.
+Experience in C / C++ / Python / Java programming, with ROS or other robotics middleware, with OpenCV, OpenCL, PCL, and CUDA, and with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Caffe and Torch
+Experience with sensor fusion, sensor integration, and wireless communication protocols
+Knowledge of design, data structures and algorithms. Demonstrated knowledge of private and public cloud design considerations and limitations in the areas of virtualization, global infrastructure, distributed systems, load balancing, networking, massive data storage, Hadoop, MapReduce, and security
+Experience in quantitative analytics (marketing analytics, statistical modeling, machine learning, digital attribution, forecasting, optimization, predictive analytics)
+Experience with 3D reconstruction, radar, LiDAR, sensor fusion, camera calibration, and SLAM
+PhD degree in Computer Vision or Machine Learning; Masters in same field with extensive experience will be considered

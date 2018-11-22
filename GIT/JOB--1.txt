@@ -1,0 +1,30 @@
+SAS Technical Lead – up to c.£90,000
+London based– plus some travel to Milton Keynes and M4 corridor
+
+We have been asked to recruit a Senior SAS Team Lead for a young, but maturing and profitable organisation based in Milton Keynes and London. Working with a number of tier-1 financial services clients, this organisation specialises in delivering highly complex data solutions.
+
+We are seeking a highly skilled, SAS focused, technical lead with proven experience leading from the front line in relation to data warehousing, analytics, big data and financial systems including risk.
+
+You will support the portfolio’s project and programme managers and work along the team’s technical architects and therefore we are looking for someone who has delivered SAS workloads covering project management and technical architecture.
+
+Skills / Environment
+Strong SAS knowledge – Modelling, ETL, integration and governance
+Technical leadership – Data Warehousing, Data Analytics, Big Data, MDM
+Data Warehousing – Kimball, inmon, optimization, data integration, cubes and reporting
+Database design within relational data management systems – Oracle, SQL Server
+Reporting – modelling of dashboards and data marts
+Architecture and deployment
+Application design and development
+Project Management – project plans, functional specifications, proposals
+Server operating systems – Windows, Unix, Solaris, AIX / HPUX
+Web and application development skill in a mainstream programming language (e.g. SAS, HTML, XML, .Net, VB, C#, Java)
+10 years + financial services environment experience or consulting/software firms serving this sector
+Application of industry standard principles in the field of data governance / stewardship, data lineage, data integration and data quality.
+Credit Risk / Market Risk, Capital Markets / and Financial environment exposure
+Agile / Waterfall
+
+Key Skills – SAS Technical Lead, Team Management, Architecture, Project Management, Data quality, MDM, Dashboards, report design, SAS enterprise, SAS governance, Big Data, Data Warehousing, ETL, SAS Modelling, Development, Database design, reporting systems, consultancy services, financial / Banking / Fintech, Data Analytics, HTML, XML, .Net, ASP, Java, C#, Web services
+
+Deerfoot IT Resources Ltd is a leading specialist recruitment business for the IT industry. We are keen to build strong relationships with IT consultants based on providing a transparent and supportive
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
